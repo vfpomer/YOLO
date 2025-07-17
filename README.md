@@ -1,2 +1,2 @@
-# YOLO2
+# YOLO
 
